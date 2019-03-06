@@ -1,0 +1,22 @@
+{
+  "name": "@infotechnohelp/html-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infotechnohelp/html-log.git"
+  },
+  "author": "Infotechnohelp OÜ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infotechnohelp/html-log/issues"
+  },
+  "homepage": "https://github.com/infotechnohelp/html-log#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
